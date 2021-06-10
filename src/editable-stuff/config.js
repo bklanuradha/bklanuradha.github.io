@@ -106,7 +106,7 @@ const skills = {
     { name: "Photoshop", value: 65 },
     { name: "JavaScript", value: 70 },
     { name: "React", value: 65 },
-    { name: "HTML", value: 55 },
+    { name: "HTML/CSS", value: 65 },
     { name: "Java", value: 60 },
   ],
   softSkills: [
@@ -127,7 +127,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for part-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "lakshmianuradha98@gmail.com",
+  email: "92729@fhss.sjp.ac.lk",
 };
 
 const experiences = {
