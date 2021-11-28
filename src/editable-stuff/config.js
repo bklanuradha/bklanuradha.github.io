@@ -27,10 +27,10 @@ const mainBody = {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/lakshmi-anuradha-53b679213/",
     },
-   // {
-   //   image: "fa-twitter",
-   //   url: "https://www.twitter.com/hashirshoaeb/",
-   // },
+  //  {
+  //    image: "fa-twitter",
+  //    url: "https://www.twitter.com/hashirshoaeb/",
+  //  },
   ],
 };
 
@@ -54,8 +54,8 @@ const about = {
   imageLink: require("../editable-stuff/anuradha.jpeg"),
   imageSize: 375,
   message:
-    "My name is Lakshmi Anuradha. I am a hardworking and ambitious individual with a great passion for the ICT industry. I am currently in my third year of studying BSc Information Technology at University of Sri Jayewardenepura. I am an enthusiast solving real-world problems using engineering skills with passion for learning, leadership and collaboration. In my free time I like working on open source projects and doing online courses.",
-  resume: "https://drive.google.com/file/d/1Isbs63hdBBqMpsVdhgoVkTCvJmT_H9nd/view?usp=sharing",
+    "Hello! I'm Lakshmi Anuradha. I'm currently studying at University of Sri Jayewardenepura. To take a challenging role as Front End Developer in a technical company where I could utilize my skills in Web Design, Front-End Web Development and use these skills in providing quality service to the company. I am a hardworking and ambitious individual with a great passion for the ICT industry. In my free time I like working on open source projects and doing online courses.",
+  resume: "https://drive.google.com/file/d/1y_aNOic8XhNyoK9FlkCzn4TNc1CkDmxt/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -100,14 +100,14 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 80 },
-    { name: "SQL", value: 50 },
-    { name: "Data Structures", value: 65 },
-    { name: "Photoshop", value: 65 },
+    { name: "Python", value: 70 },
+    { name: "MongoDB", value: 50 },
+    { name: "Bootstrap", value: 75 },
+    { name: "NodeJs", value: 75 },
     { name: "JavaScript", value: 70 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 65 },
-    { name: "Java", value: 60 },
+    { name: "React", value: 70 },
+    { name: "HTML", value: 85 },
+    { name: "CSS", value: 80 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 90 },
@@ -126,8 +126,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for part-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "92729@fhss.sjp.ac.lk",
+    "I'm currently looking for part-time Front-End Developer or Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "lakshmianuradha98@gmail.com",
 };
 
 const experiences = {
